@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/44-grupe-get-things-done/static/css/main.326d3323.css",
-    "main.js": "/44-grupe-get-things-done/static/js/main.2a7eee3c.js",
+    "main.js": "/44-grupe-get-things-done/static/js/main.ab0f4e79.js",
     "static/media/logo.png": "/44-grupe-get-things-done/static/media/logo.fde019afe49cf060d015.png",
     "index.html": "/44-grupe-get-things-done/index.html",
     "main.326d3323.css.map": "/44-grupe-get-things-done/static/css/main.326d3323.css.map",
-    "main.2a7eee3c.js.map": "/44-grupe-get-things-done/static/js/main.2a7eee3c.js.map"
+    "main.ab0f4e79.js.map": "/44-grupe-get-things-done/static/js/main.ab0f4e79.js.map"
   },
   "entrypoints": [
     "static/css/main.326d3323.css",
-    "static/js/main.2a7eee3c.js"
+    "static/js/main.ab0f4e79.js"
   ]
 }
