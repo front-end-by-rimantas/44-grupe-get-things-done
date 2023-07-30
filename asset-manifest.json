@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/front-end-by-rimantas/44-grupe-get-things-done/static/css/main.326d3323.css",
+    "main.js": "/front-end-by-rimantas/44-grupe-get-things-done/static/js/main.610e905d.js",
+    "static/media/logo.png": "/front-end-by-rimantas/44-grupe-get-things-done/static/media/logo.fde019afe49cf060d015.png",
+    "index.html": "/front-end-by-rimantas/44-grupe-get-things-done/index.html",
+    "main.326d3323.css.map": "/front-end-by-rimantas/44-grupe-get-things-done/static/css/main.326d3323.css.map",
+    "main.610e905d.js.map": "/front-end-by-rimantas/44-grupe-get-things-done/static/js/main.610e905d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326d3323.css",
+    "static/js/main.610e905d.js"
+  ]
+}
